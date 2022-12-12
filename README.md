@@ -2,4 +2,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Моя первая работа на HTML & CSS] (https://tomchelo.github.io/resume/)
+[Резюме v2.0 на HTML & CSS] (https://tomchelo.github.io/resume/)
